@@ -1,7 +1,7 @@
 my_age = 21
  my_indexnumber = 35488
  my_name = "baran donmez "
- my_surname = "begen"
+ my_surname = "donme"
  nationality = "turja"
  starting_date = "01.01.2025"
 courses = ["Mathematics", "Physics", "Computer Science"]
